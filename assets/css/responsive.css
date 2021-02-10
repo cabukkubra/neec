@@ -1,0 +1,1038 @@
+@media screen and (max-width: 1920px){
+    .journal-img{
+        height: 500px;
+    }
+}
+
+@media screen and (max-width:1200px){
+    .footer-down{
+        padding: 110px 0px;
+    }
+
+    .sepet-icon{
+        right:45px;
+    }
+}
+
+@media screen and (max-width: 1300px)
+{
+
+    .sepet-icon{
+        right:45px;
+    }
+}
+@media screen and (max-width: 1178px){
+    .margintop9{
+        padding-right: 0px;
+    }
+    .ptDetail130{
+        padding-top:15%;
+    }
+}
+
+@media screen and (max-width: 992px) {
+    .mobilRow {
+        display:block !important;
+    }
+    .noMobile{
+        display:none !important;
+    }
+    .header-bg{
+        padding: 0 !important;
+    }
+    .search-i{
+        float: none;
+        display: inline-block;
+        margin-right: 15px;
+        margin-left: 15px;
+    }
+    .fa-shopping-basket{
+        margin-right: 9px;
+    }
+    .sticky{
+        top:60px;
+    }
+
+    .search-basket{
+        margin-top:0px;
+        float:right;
+    }
+    .sepet-icon{
+        position: relative;
+        right: 2px;
+        margin-right: 5px;
+        margin-top: 20px;
+    }
+    .basket-active{
+        right:0px;
+        width: 100%;
+        top:60px;
+        overflow-y: scroll;
+        overflow-x: hidden;
+        height: calc(100vh + 60px);
+        padding-bottom: 180px;
+
+    }
+    .mobilFr{
+        float:left;
+    }
+    .journalDetail-img{
+        height: auto;
+    }
+    .margin22{
+        margin-top:12%;
+    }
+    .paddingright5Shipping{
+        padding-right: 15px;
+    }
+    .footerText{
+        font-size:13px;
+    }
+}
+
+@media screen and (max-width: 832px) {
+    .footer-link > li{
+        display: block;
+        width: 100%;
+        margin-bottom: 22px;
+    }
+
+    .footer-down{
+        padding: 70px 0px;
+    }
+}
+
+@media screen and (max-width:766px){
+    .productDetailTitleMobil{
+        padding-left: 5px;
+    }
+    .infomail{
+        text-align: left;
+        padding-left: 0px;
+        padding-top: 5px;
+    }
+    .footer-down{
+        padding:30px 0px;
+    }
+    .join-button
+    {
+        width:20%;
+        float:right;
+        margin-right:15px;
+    }
+    .padding60{
+        padding:30px 0px;
+    }
+    .footer-link2 > li > a{
+        width: 100%;
+        text-align: right;
+        padding-right:30px;
+    }
+    .body > footer > div.container.container--full-width > div > div.col-md-10.fl > form{
+        padding-left:0px;
+    }
+    .body > footer > div.col-md-12.fl.footer-down > div > ul.fl.footer-link.col-md-8.col-6{
+        padding-left:0px;
+    }
+    .mobilAbout1{
+        padding-right: 15px;
+        padding-left: 15px;
+    }
+    .mobilAbout2{
+        padding-right: 15px;
+        padding-left: 15px;
+    }
+    .dateText{
+        text-align: center;
+    }
+    .journalDetailTitle{
+        text-align: center;
+    }
+}
+
+@media screen and (max-width: 576px){
+    .orderTextPhone{
+        font-size:10px;
+    }
+    .orderTextv4{
+        font-size:12px;
+    }
+    .orderTextv3{
+        font-size:13px;
+    }
+    .orderTextv2{
+        font-size:10px;
+    }
+    .orderDetailNone{
+        display: none;
+    }
+    .orderCompletedText{
+        font-size:18px !important;
+    }
+    .pagesAccountTitle{
+        margin-top:10%;
+    }
+    .marginFaq{
+        margin-top:25px;
+    }
+    .journal-img{
+        height: 250px;
+    }
+    body > footer > div.container.container--full-width > div > div.col-md-10.fl > form
+    {
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    body > footer > div.container.container--full-width > div > div.col-md-2.fr > button
+    {
+        padding-right: 0px;
+    }
+    .join-button{
+        margin-right: 0px;
+    }
+    body > footer > div.col-md-12.fl.footer-down > div > ul.fl.footer-link.col-md-8.col-8 > li > a
+    {
+        margin-left:0px;
+    }
+
+    .footerline{
+        margin-right: 10px;
+        margin-left: 15px;
+    }
+    .footer-link2 > li > a{
+        padding-right: 0px;
+    }
+    .margin22{
+        margin-top:15%;
+    }
+    .aboutTitle{
+        margin-left:15px;
+        margin-right: 15px;
+        font-size:15px;
+        font-weight: 500;
+    }
+    .aboutText{
+        margin-left:15px;
+        margin-right:15px;
+    }
+    .mobilFaq{
+        margin-left:0px;
+    }
+    .journal-img{
+        height: 280px;
+    }
+    .margin21{
+        margin-top:60px;
+    }
+    .journal-detail{
+        margin-bottom:45px;
+    }
+    .pr10{
+        padding-bottom:0px;
+    }
+    .journalPrevious{
+        padding-left:15px;
+    }
+    .journalNext{
+        padding-right: 15px;
+    }
+    .journalDetail-img{
+        padding-top: 5px;
+        padding-left: 6px;
+        padding-right: 6px;
+        margin-top:15px;
+    }
+    .journalLeftImg{
+        padding-left: 6px;
+        padding-right: 6px;
+    }
+    .journalDetailImgLeft{
+        padding-left: 21px;
+        padding-right: 6px;
+    }
+    .journalDetailText{
+        padding-left:6px;
+        padding-right: 6px;
+    }
+    .previousEntry{
+        padding-left:6px;
+    }
+    .nextEntry{
+        padding-right: 6px;
+    }
+    .join-button{
+        width: 25%;
+    }
+    .pagesPaddingTop20{
+        padding-top:20px;
+    }
+    .resetBtn{
+        padding: 0.81818em 2.09091em 0.72727em;
+    }
+    .mobilpaddingright{
+        padding-right:0px;
+    }
+    .input-helper--checkbox3:before{
+        top:2px;
+    }
+}
+
+@media screen and (max-width: 832px){
+    .journal-img{
+        height:300px;
+    }
+    .footer-down{
+        padding:70px 0px;
+    }
+    .footer-link > li{
+        display: block;
+        width: 100%;
+        margin-bottom: 22px;
+    }
+    .footer-link2 > li > a{
+        width: 100%;
+        text-align: right;
+        padding-right:30px;
+    }
+    .footer-link > li > a
+    {
+        font-weight: 300;
+    }
+}
+
+@media screen and (max-width: 1024px){
+    .no-js .owl-carousel, .owl-carousel.owl-loaded{
+        height: 70vh;
+    }
+    video{
+        height: 70vh;
+    }
+
+    .logo{
+        height: 95px;
+    }
+    .checkoutProductPrice{
+        text-align:center;
+    }
+}
+
+@media screen and (max-width: 411px)
+{
+    .userBtnMobil{
+        padding-right: 0px;
+    }
+    .checkoutProductTitle{
+        margin-top:0px;
+    }
+    .checkoutProductPrice{
+        font-size: 13px;
+    }
+    .no-js .owl-carousel, .owl-carousel.owl-loaded{
+        height: 40vh;
+    }
+    video{
+        height: 41vh;
+    }
+    body > div > div.row.ptDetail130 > div.col-md-6.margintop9 > div > div.stockArea > input[type=email]
+    {
+        width:72%;
+    }
+    .pt130v3 {
+        padding-top: 19% !important;
+    }
+}
+
+@media screen and (max-width: 500px){
+    .productTitle{
+        margin-top:25px
+    }
+    .loginForm{
+        margin-top:20px;
+    }
+}
+
+@media screen and (max-width: 1100px)
+{
+    .orderCompletedText{
+        text-align: right;
+    }
+}
+@media screen and (max-width: 999px){
+    .orderCompletedText{
+        text-align: left;
+    }
+    #account{
+        border-bottom: 1px solid #cecdcd;
+        padding-bottom: 5%;
+        margin-bottom: 5%;
+    }
+    .addresArea{
+        padding-top:5%;
+        padding-bottom:10%;
+    }
+    .infoArea{
+        padding-top:5%;
+        padding-bottom:10%;
+    }
+
+    .myInfoPadding{
+        padding:0px;
+    }
+    .accountLeftTitle{
+        text-align: center;
+    }
+    .borderAccountRight{
+        min-height: 0px;
+        border:none;
+    }
+    .marginbottom10v2 {
+        margin-bottom: 10px;
+    }
+
+    .paddingright0{
+        padding-right: 0px;
+    }
+    .paddinglr0{
+        padding-left:0px;
+        padding-right:0px;
+    }
+    .padding0v2{
+        padding:0px;
+    }
+    .margintop9{
+        padding-left:4%;
+    }
+    .paddingright5{
+        margin-left:12.5%;
+    }
+    .mobilCardBody{
+        padding:0;
+    }
+    .checkoutText{
+        display:none;
+    }
+    .checkoutLogo{
+        margin-bottom:20px;
+        padding-top:30px;
+    }
+}
+
+@media screen and (max-width:991px)
+{
+    .filterDiv{
+        top:105px;
+    }
+    .bWhite{
+        display: none;
+    }
+    .checkoutBackground{
+        display:none;
+    }
+    .checkoutBox{
+        display:block;
+    }
+    .pd0{
+        padding-right: 7%;
+    }
+    .backgroundFa{
+        padding-right: 0px !important;
+    }
+
+}
+
+@media screen and (max-width: 959px) {
+    .input-helper--radio2:before
+    {
+        width: 45px;
+        height: 45px;
+    }
+}
+
+@media screen and (max-width: 897px){
+    .colorLi{
+        margin-left:12px;
+    }
+    .marginleft0{
+        margin-left:0px;
+    }
+}
+
+@media screen and (max-width: 767px){
+    .orderCompletedText{
+        font-size: 10px;
+    }
+    .orderCategoryText{
+        font-size: 12px;
+        margin-bottom: 1px;
+    }
+    .orderText{
+        font-size:10px;
+    }
+    #account{
+        border-bottom: 1px solid #cecdcd;
+        padding-bottom: 5%;
+        margin-bottom: 5%;
+    }
+    .addresArea{
+        padding-top:5%;
+        padding-bottom:10%;
+    }
+    .infoArea{
+        padding-top:5%;
+        padding-bottom:10%;
+    }
+
+    .myInfoPadding{
+        padding:0px;
+    }
+    .leftCol{
+        padding-left:15px;
+    }
+    .rightCol{
+        padding-right: 15px;
+    }
+    .cartCheckoutpl{
+        padding-left:0px;
+    }
+    .cartShoppingTitle{
+        display:none;
+    }
+    .leftCol{
+        border-right: none;
+    }
+    .paddingright7{
+        padding-right: 7.5px !important;
+    }
+    .paddingleft7{
+        padding-left: 7.5px !important;
+    }
+    .paddingright0{
+        padding-right:15px;
+    }
+    .mobilJournal{
+        margin-left:0px;
+    }
+    .mobilDetailImg{
+        display:none;
+    }
+    .wearWithText{
+        margin-top:20px;
+    }
+    .offset-3{
+        margin-left:0px;
+    }
+    .productDetailTitle{
+        display:none;
+    }
+    .productDetailTitleMobil
+    {
+        display:block;
+    }
+    .accountLogin{
+        margin-top:20px;
+    }
+    .owl-wrapper-outer{
+        display: block !important;
+    }
+    #owl-demo{
+        display: block !important;
+    }
+    .margintop9{
+        margin-top:4%;
+    }
+    .borderSign{
+        border:none;
+    }
+    .continueBtn{
+        width:100%;
+    }
+    .applyPadding0{
+        padding-right: 0px !important;
+    }
+}
+
+@media screen and (max-width: 779px){
+    .margintop9{
+        padding-left:3%;
+    }
+}
+
+@media screen and (max-width: 450px){
+    .journal-img{
+        height:200px;
+    }
+    .pt130v3{
+        padding-top:20%;
+    }
+}
+
+@media screen and (max-width: 484px){
+    .width100
+    {
+        padding-left:52%;
+    }
+}
+
+@media screen and (max-width: 397px){
+    .width100
+    {
+        padding-left:42%;
+    }
+}
+
+
+@media screen and (max-width: 625px){
+    .pt130v3{
+        padding-top:16%;
+    }
+}
+
+@media screen and (max-width: 417px){
+    .accountText{
+        float:left;
+    }
+    .shipAddressText{
+        margin-top:18px;
+    }
+    .policyText{
+        margin-right:8px;
+    }
+}
+
+@media screen and (min-height: 600px){
+    .full-height{
+        height: calc(100% - 165px);
+    }
+    .full-heightv2{
+        height:100%;
+    }
+
+}
+@media screen and (max-width: 414px)
+{
+    .orderText{
+        font-size:11px !important;
+    }
+    .userBtnMobil{
+        padding-right: 0px;
+    }
+    .resetTitle{
+        font-size:17px;
+    }
+    .number{
+        width:29px;
+    }
+    .shippingLeftText{
+        font-size:12px;
+    }
+    .shippingCenterText
+    {
+        color: #333333;
+        font-size: 12px;
+        padding: 0px;
+        padding-left: 8px;
+    }
+    .createBtn{
+        margin-top:25px;
+        margin-bottom:25px;
+    }
+    .newText{
+        font-size:13px;
+    }
+    .signInTitle{
+        margin-bottom:20px;
+    }
+    .signInBtn{
+        margin-top:30px;
+    }
+    .cartCheckoutpl{
+        padding-left:15px;
+    }
+    .rightCol{
+        text-align: right;
+    }
+    .productBasketPrice{
+        float:none;
+    }
+    .pt130cart{
+        padding-top:23%;
+    }
+    .no-js .owl-carousel, .owl-carousel.owl-loaded{
+        height: 40vh;
+    }
+    video{
+        height: 41vh;
+    }
+    .productTitle{
+        margin-top: 30px;
+    }
+    .pt130v3{
+        padding-top:19% !important;
+    }
+    .journalDetail-img{
+        margin-top:0px;
+    }
+    .footer-link2 > li > a{
+        padding-right:15px;
+    }
+    .mobilpaddingright2{
+        padding-right:15px !important;
+    }
+}
+@media screen and (max-width: 375px) {
+    .userBtnMobil{
+        padding-right: 0px;
+    }
+    .fc label{
+        font-size:13px;
+    }
+    .rightCol{
+        text-align: right;
+    }
+    .productBasketPrice{
+        float:none;
+    }
+    .pt130cart{
+        padding-top:23%;
+    }
+    .no-js .owl-carousel, .owl-carousel.owl-loaded{
+        height: 40vh;
+    }
+    video{
+        height: 40vh;
+    }
+    .continueBtn{
+        padding-top: 20px;
+        padding-bottom: 20px;
+        padding-right: 13px;
+        padding-left: 13px;
+    }
+    .shippingCenterText{
+        padding-left:8px;
+    }
+
+    .checkoutProductPrice{
+        font-size:11px;
+    }
+    .keepText{
+        font-size:12px;
+    }
+    .fc2 label{
+        font-size:12px;
+    }
+
+}
+@media screen and (max-width: 360px){
+    .orderText{
+        font-size:9px !important;
+    }
+    .orderCategoryText{
+        font-size:11px;
+    }
+    .fontweight500{
+        font-size:13px;
+    }
+    .shippingCenterText{
+        padding-left:13px;
+    }
+    .fc2 label{
+        font-size: 12px;
+    }
+    .checkoutProductTitle{
+        margin-top:0px;
+    }
+    .checkoutProductPrice{
+        font-size: 11px;
+    }
+    .footer-link2 > li > a{
+        padding-right: 15px;
+    }
+    .editBtn{
+        padding: 0.81818em 1.09091em 0.72727em;
+    }
+    .rightCol{
+        padding-left:0px;
+    }
+    .andmoreText{
+        font-size:11px;
+    }
+    .creditCard{
+        font-size:12px;
+    }
+    .fc label{
+        font-size:12px;
+    }
+}
+@media screen and (max-width: 661px)
+{
+    .checkoutProductPrice{
+        font-size:13px;
+    }
+}
+@media screen and (max-width: 626px)
+{
+    .checkoutProductPrice{
+        font-size:12px;
+    }
+}
+@media screen and (max-width: 592px)
+{
+    .checkoutProductPrice{
+        font-size:11px;
+    }
+    .checkoutProductTitle{
+        margin-top:0px;
+    }
+}
+@media screen and (max-width: 320px)
+{
+    .newText {
+        font-size:11px;
+    }
+    .signInTitle{
+        font-size:16px;
+        margin-bottom:15px;
+        margin-top:30px;
+    }
+    .footer-link > li > a{
+        font-size:10px;
+    }
+    .search-footer{
+        font-size: 8px;
+    }
+    .journal-detail{
+        font-size:9px;
+        margin-bottom:30px;
+    }
+    .journal-name{
+        font-size: 9px;
+        line-height: 24px;
+        color: black;
+        margin-bottom: 0px;
+    }
+    .cartCheckoutpl{
+        padding-top:20px;
+    }
+    .fontweight500{
+        font-size:13px;
+    }
+    .shippingLeftText{
+        font-size:11px;
+    }
+    .shippingCenterText{
+        font-size:11px;
+    }
+    .editBtn{
+        padding: 0.81818em 1.09091em 0.72727em;
+    }
+    .productBasketPrice{
+        margin-bottom: 16px;
+    }
+    .journalDetail-img{
+        margin-top:11px !important;
+    }
+    video{
+        height: 40vh;
+    }
+    .checkoutProductTitle{
+        margin-top:0px;
+    }
+    .pl320{
+        padding-left:0px;
+    }
+    .continueBtn{
+        padding-top: 15px;
+        padding-bottom: 17px;
+        padding-right: 10px;
+        padding-left: 10px;
+    }
+    .applyBtn{
+        padding:11px;
+        padding-left:17px;
+        padding-right: 17px;
+    }
+    .fc2 input[type='text']{
+        padding-top:11px;
+    }
+    .shippingCenterText{
+        padding-left:13px;
+    }
+    .paddingmobilright0{
+        padding-right:0px;
+    }
+    .andmoreText{
+        display: none;
+    }
+    .mobilFaq{
+        margin-left:0px;
+    }
+    .paddingtop40{
+        padding-top:25px;
+    }
+    .footer-link2 > li > a{
+        padding-right:15px;
+    }
+    #v-pills-tabContent{
+        padding-left:15px;
+    }
+    .shoppingPrice{
+        font-size: 15px;
+    }
+    .checkoutProductTitle{
+        font-size:12px;
+    }
+    .fc label{
+        font-size:10px;
+    }
+    .moneyText{
+        font-size:20px;
+    }
+    .keepText{
+        font-size:12px;
+    }
+    .previousEntry{
+        font-size:10px;
+    }
+    .nextEntry{
+        font-size:10px;
+    }
+
+}
+@media screen and (max-width: 950px) {
+    .cartCheckout{
+        width: auto;
+    }
+}
+
+@media screen and (min-height: 1000px){
+    .faqHeight{
+        height:calc(100% + 135px);
+    }
+    .productTotal{
+        height:500px;
+    }
+    .forgotHeight{
+        height: calc(100% - 30%);
+    }
+    .forgotHeightv2{
+        height: 100%;
+    }
+    .pagesHeight{
+        height: calc(100% - 20%);
+    }
+
+    .pagesHeightv2{
+        height: 100%;
+    }
+
+
+}
+
+@media screen and (max-width: 1050px){
+    .paddingHeader{
+        padding: 0px;
+    }
+    .orderText{
+        font-size:10px;
+    }
+}
+
+@media screen and (min-height: 1100px) {
+
+    .forgotHeight{
+        height: calc(100% - 473px);
+    }
+    .forgotHeightv2{
+        height: 100%;
+    }
+
+    .pagesHeight{
+        height: calc(100% - 338px);
+    }
+
+    .pagesHeightv2{
+        height: 100%;
+    }
+
+}
+@media screen and (min-height: 1200px){
+    .registerHeight{
+        height: calc(100% - 473px)
+    }
+    .registerHeightv2{
+        height: 100%;
+    }
+}
+@media screen and (min-height: 1400px) {
+    .forgotHeight {
+        height: calc(100% - 473px)
+    }
+
+    .forgotHeightv2 {
+        height: 100%;
+    }
+}
+
+@media screen and (min-width: 993px) and (max-width: 1024px) {
+    .sticky{
+        top:95px;
+    }
+}
+@media screen and (max-width: 899px)
+{
+    .footer-link > li > a{
+        font-size:10px;
+    }
+}
+
+@media screen and (max-width: 800px){
+    .input-helper--radio2:before {
+        width: 35px;
+        height: 35px;
+    }
+    .colorLabelDiv{
+        height: 35px;
+        width: 35px;
+        line-height: 35px;
+        font-size: 10px;
+    }
+}
+@media screen and (max-width: 375px){
+    .input-helper--radio2:before {
+        width: 25px;
+        height: 25px;
+    }
+    .colorLabelDiv{
+        height: 25px;
+        width: 25px;
+        line-height: 25px;
+        font-size: 7px;
+    }
+    .orderText{
+        font-size:10px !important;
+    }
+}
+@media screen and (max-width: 680px){
+    .orderCompletedText{
+        text-align: right;
+    }
+}
+@media screen and (max-width: 650px){
+    .orderText{
+        font-size:9px;
+    }
+    .orderCompletedText{
+        font-size:9px;
+    }
+    .orderDateText{
+        font-size:8px;
+    }
+    .paddingOrderCompleted{
+        padding:0px;
+    }
+}
+@media screen and (max-width: 320px){
+    .orderText {
+        font-size: 8px !important;
+    }
+}
